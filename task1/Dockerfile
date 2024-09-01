@@ -20,4 +20,3 @@ COPY api.py /app/api.py
 
 # Command to run the Flask app
 CMD ["python3", "api.py"]
-.
